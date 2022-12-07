@@ -1,0 +1,1017 @@
+﻿## intent:affirm
+- Accept
+- Awesome!
+- Cool
+- Good
+- Great
+- I accept
+- I accept.
+- I agree
+- I am using it
+- I changed my mind. I want to accept it
+- I do
+- I get it
+- I guess so
+- I have used it in the past
+- I will
+- Id absolutely love that
+- Im sure I will!
+- Im using it
+- Nice
+- OK
+- Ofcourse
+- Oh yes
+- Oh, ok
+- Ok
+- Ok lets start
+- Ok.
+- Okay
+- Okay!
+- PLEASE
+- SURE
+- Sure
+- Sweet
+- That would be great
+- YES
+- YUP
+- Yea
+- Yeah
+- Yeah sure
+- Yep
+- Yep thats fine
+- Yep!
+- Yepp
+- Yes
+- Yes I do
+- Yes please
+- Yes please!
+- Yes, I accept
+- Yes.
+- Yup
+- a little
+- absolutely
+- accept
+- accepted
+- agreed
+- ah ok
+- right
+- alright
+- alright, cool
+- amayzing
+- amazing!
+- awesome
+- awesome!
+- confirm
+- cool
+- cool
+- cool story bro
+- cool!
+- coolio
+- definitely yes without a doubt
+- done
+- fair enough
+- fcourse
+- fine
+- fuck yeah!
+- go
+- go ahead
+- go for it
+- going super well
+- good.
+- great
+- great lets do that
+- great!
+- hell yeah
+- hell yes
+- hm, id like that
+- how nice!
+- i accept
+- i agree
+- i am!
+- i want that
+- i will!
+- it is ok
+- its okay
+- ja
+- ja cool
+- ja thats great
+- jezz
+- jo
+- k
+- kk
+- lets do it
+- lets do this
+- not bad
+- of course
+- ofcoure i do
+- ofcourse
+- oh awesome!
+- oh cool
+- oh good !!
+- oh super
+- ok
+- ok cool
+- ok fine
+- ok friend
+- ok good
+- ok great
+- ok i accept
+- ok, I behave now
+- ok, I understood
+- ok...
+- okay
+- okay cool
+- okay sure
+- okay..
+- oki doki
+- okie
+- ook
+- oui
+- perfect
+- please
+- si
+- sort of
+- sure
+- sure thing
+- sure!
+- that is cool
+- that ok
+- that sounds fine
+- thats great
+- thats fine
+- thats good
+- thats great
+- top
+- uh-huh
+- very much
+- well yes
+- y
+- ya
+- ya cool
+- ya go for it
+- ya i want
+- ya please
+- ya thats cool
+- yaah
+- yap
+- yaps
+- yas
+- yay
+- ye
+- ye splease
+- yea
+- yeah do that
+- yeah sure
+- yeah
+- yeah, why not
+- yeeeeezzzzz
+- yeeees
+- yep
+- yep i want that
+- yep if i have to
+- yep please
+- yep thats nice
+- yep thats cool
+- yep, will do thank you
+- yes
+- yes
+- yes I do
+- yes accept please
+- yes baby
+- yes cool
+- yes give me information
+- yes go ahead
+- yes go for it
+- yes great
+- yes i accept
+- yes i agree
+- yes i have built a bot before
+- yes i have!
+- yes it is
+- yes it was okay
+- yes of course
+- yes pleae
+- yes please
+- yes please!
+- yes pls
+- yes sirfr
+- yes thats great
+- yes thats what i want
+- yes you can
+- yes, Id love to
+- yes, cool
+- yes, give me information, please
+- yes,i am
+- yes.
+- yesh
+- yess
+- yessoo
+- yesss
+- yesssss
+- yesyestyes
+- yesyesyes
+- yez
+- yop
+- you asked me a yes or no question, which i answered with yes
+- you got me, I accept, if you want me to
+- yres
+- ys
+- yup
+- yyeeeh
+- Okay cool
+- ok
+- considering
+- More a less
+- cool beans
+- sounds good!
+
+## intent:goodbye
+- Bye
+- Bye bye
+- adios
+- adios?
+- bye
+- bye.
+- bye
+- bye bot
+- bye bye
+- bye bye bot
+- bye for now
+- bye udo
+- bye was nice talking to you
+- bye!
+- byee
+- catch you later
+- ciao
+- cya
+- farewell
+- good bye
+- good night
+- goodbye
+- goodbye.
+- goodnight
+- gotta go
+- k byyye
+- ok Bye
+- ok bye
+- ok, bye
+- ok.bye
+- see u later
+- see ya
+- see you
+- see you. bye
+- take care
+- then bye
+- tlak you later
+- tlak to you later
+- toodle-oo
+- Close this talk
+- byr
+- have a good one
+- see you
+- end
+- farewell
+
+## intent:greet
+- How you doing?
+- how you doing
+- How are you
+- dear sir
+- Bom dia
+- Bonjour
+- Good Morning
+- Good morning
+- Good mourning
+- Guten Morgen
+- HELLO
+- HEY
+- HEllo
+- HI
+- Hallo
+- Hei
+- Hellllooooooo
+- Hello
+- Hello Bot
+- Hello!
+- Hey
+- Hey bot
+- Heya
+- Heylo
+- Hi
+- Hi bot
+- Hi man
+- Hi there
+- Hi!
+- Hi,
+- Hi, bot
+- Hieee
+- Hieeeeeeeeeeeee
+- Hola
+- I said, helllllloooooO!!!!
+- Well hello there ;)
+- What is up?
+- Whats up
+- Whats up my bot
+- Whats up?
+- ayyyy whaddup
+- bonjour
+- ey boss
+- good evening
+- good moring
+- good morning
+- greet
+- greetings
+- hai
+- hallo
+- halloo
+- halloooo
+- halo
+- heeey
+- heelio
+- hell9o
+- hellio
+- hello
+- hello everybody
+- hello friend
+- hello hi
+- hello is anybody there
+- hello it is me again
+- hello robot
+- hello sweatheart
+- hello sweet boy
+- hello there
+- hello world
+- hello?
+- hellooo
+- helloooo
+- helo
+- hey
+- hey bot
+- hey bot!
+- hey dude
+- hey hey
+- hey lets talk
+- hey ther
+- hey there
+- hey there boy
+- hey there..
+- hey, lets talk
+- heya
+- heyho
+- heyo
+- hhola
+- hi
+- hi !
+- hi Mister
+- hi again
+- hi can you speak ?
+- hi folks
+- hi friend
+- hi friends
+- hi hi
+- hi pal!
+- hi there
+- hi there its me
+- hi!
+- hi
+- hi?
+- hieee
+- hii
+- hiihihi
+- hiii
+- hlo
+- hola
+- howdy
+- jojojo
+- jop
+- konichiwa
+- merhaba
+- salut
+- sup
+- wasssup
+- wasssup!
+- what up
+- whats popping
+- whats up
+- yo
+- yoo
+- ssup?
+
+## intent:search
+- Why is processing a sorted array faster than processing an unsorted array?
+- How do I undo the most recent local commits in Git?
+- How do I delete a Git branch locally and remotely?
+- What is the difference between git pull and git fetch?
+- What is the correct JSON content type?
+- What does the yield keyword do?
+- How do I undo git add before commit?
+- How do I rename a local Git branch?
+- How can I remove a specific item from an array?
+- What and where are the stack and heap?
+- How do I redirect to another webpage?
+- How do I check if an element is hidden in jQuery?
+- How to modify existing unpushed commit messages?
+- How do JavaScript closures work?
+- How do I revert a Git repository to a previous commit?
+- Can comments be used in JSON?
+- What does use strict do in JavaScript and what is the reasoning behind it?
+- Why does HTML think chucknorris is a color?
+- How to check whether a string contains a substring in JavaScript?
+- How do I force git pull to overwrite local files?
+- How to remove local untracked files from the current Git working tree
+- Why is subtracting these two times in 1927 giving a strange result?
+- How do I check out a remote Git branch?
+- Is Java pass by reference or pass by value?
+- How do I remove a property from a JavaScript object?
+- Does Python have a ternary conditional operator?
+- What are metaclasses in Python?
+- How do I check whether a file exists without exceptions?
+- How do I return the response from an asynchronous call?
+- How to make Git forget about a file that was tracked but is now in gitignore?
+- How do I find all files containing specific text on Linux?
+- What is the most efficient way to deep clone an object in JavaScript?
+- How to disable text selection highlighting
+- How do I include a JavaScript file in another JavaScript file?
+- Move the most recent commits to a new branch with Git
+- What is a plain English explanation of Big O notation?
+- How to get the source directory of a Bash script from within the script itself
+- Calling an external command from Python
+- What is the maximum length of a URL in different browsers?
+- How do I discard unstaged changes in Git?
+- How to resolve merge conflicts in Git
+- How do I merge two dictionaries in a single expression in Python?
+- For-each over an array in JavaScript
+- What is the difference between ER JOIN and OUTER JOIN?
+- How to pass Null (a real surname!) to a SOAP web service in ActionScript 3
+- How do I check whether a checkbox is checked in jQuery?
+- Thinking in AngularJS if I have a jQuery background?
+- Whats the difference between using let and var?
+- How can I reset or revert a file to a specific revision?
+- Reference — What does this symbol mean in PHP?
+- How to replace all occurrences of a string?
+- What is the difference between a URI, a URL and a URN?
+- How to validate an email address in JavaScript
+- How do I push a new local branch to a remote Git repository and track it too?
+- Regular expression to match a line that doesnt contain a word
+- How to horizontally center a div
+- How can I add an empty directory to a Git repository?
+- The Definitive C Book Guide and List
+- How can I safely create a nested directory?
+- How to create GUID UUID?
+- How to clone all remote branches in Git?
+- Setting checked for a checkbox with jQuery
+- Why does Google prepend while (1) to their JSON responses?
+- How can I determine the URL that a local Git repository was originally cloned from?
+- How do I read convert an InputStream into a String in Java?
+- How do you get a timestamp in JavaScript?
+- How do I check if an array includes a value in JavaScript?
+- What exactly is RESTful programming?
+- Change an HTML5 inputs placeholder color with CSS
+- Undo a Git merge that hasnt been pushed yet
+- How can I pair socks from a pile efficiently?
+- How to change the URI (URL) for a remote Git repository?
+- Reset local repository branch to be just like remote repository HEAD
+- Close hide android soft keyboard
+- How do I make the first letter of a string uppercase in JavaScript?
+- How to enumerate an enum
+- Differences between HashMap and Hashtable?
+- How do I exit the Vim editor?
+- How can I check if a directory exists in a Bash shell script?
+- How do I UPDATE from a SELECT in SQL Server?
+- How is Docker different from a virtual machine?
+- Proper use cases for Android UserManager.isUserAGoat()?
+- Why dont Java compound assignment operators require casting?
+- Does Python have a string contains substring method?
+- Create ArrayList from array
+- How do I update a GitHub forked repository?
+- Accessing the index in for loops?
+- Squash my last X commits together using Git
+- Difference between staticmethod and classmethod
+- Make an existing Git branch track a remote branch?
+- How do I remove a submodule?
+- How do I generate random integers within a specific range in Java?
+- How do I list all files of a directory?
+- How do I sort a dictionary by value?
+- Why is char preferred over String for passwords?
+- grep a file but show several surrounding lines?
+- How to delete a remote tag?
+- Why is the Android emulator so slow? How can we speed up the Android emulator?
+- How to make a flat list out of list of lists?
+- AngularJS Service vs provider vs factory
+- Set cellpadding and cellspacing in CSS?
+- How to validate an email address using a regular expression?
+- How do I copy to the clipboard in JavaScript?
+- How do I efficiently iterate over each entry in a Java Map?
+- Understanding slice notation
+- What are the differences between a pointer variable and a reference variable in C++?
+- How do I tell if a regular file does not exist in Bash?
+- How do I check if a list is empty?
+- Delete commits from a branch in Git
+- How to create a memory leak in Java?
+- How to cast int to enum?
+- What is the difference between public protected package private and private in Java?
+- Undoing a git rebase
+- Is there a CSS parent selector?
+- Finding the index of an item in a list
+- Loop through an array in JavaScript
+- Move existing, uncommitted work to a new branch in Git
+- How do you create a remote Git branch?
+- Iterating over dictionaries using for loops
+- What is the difference between Pythons list methods append and extend?
+- When to use LinkedList over ArrayList in Java?
+- Using global variables in a function
+- What is the difference between call and apply?
+- View the change history of a file using Git versioning
+- How do I test for an empty JavaScript object?
+- What is dependency injection?
+- How do I correctly clone a JavaScript object?
+- Stash only one file out of multiple files that have changed with Git?
+- How can I pretty-print JSON in a shell script?
+- Remove a file from a Git repository without deleting it from the local filesystem
+- How do I clone a specific Git branch?
+- How do I convert a String to an int in Java?
+- Get the current URL with JavaScript?
+- What is a serialVersionUID and why should I use it?
+- How do I iterate over the words of a string?
+- Is floating point math broken?
+- Improve INSERT-per-second performance of SQLite
+- Checking if a key exists in a JavaScript object?
+- What does the explicit keyword mean?
+- How can I upload files asynchronously?
+- How to insert an item into an array at a specific index (JavaScript)?
+- Case insensitive Contains(string)
+- How to append something to an array?
+- How to stop EditText from gaining focus at Activity startup in Android
+- How to get the current time in Python
+- How do I loop through or enumerate a JavaScript object?
+- Detecting an undefined object property
+- How do I POST JSON data with cURL?
+- Is it possible to apply CSS to half of a character?
+- JavaScript closure inside loops simple practical example
+- Find and restore a deleted file in a Git repository
+- How do you disable browser Autocomplete on web form field input tag?
+- How to list all the files in a commit?
+- How can I prevent SQL injection in PHP?
+- Is there an exists function for jQuery?
+- How can I change an elements class with JavaScript?
+- 403 Forbidden vs 401 Unauthorized HTTP responses
+- Commit only part of a file in Git
+- Add a column with a default value to an existing table in SQL Server
+- How to concatenate string variables in Bash
+- Sort array of objects by string property value
+- Initialization of an ArrayList in one line
+- How to make a chain of function decorators?
+- How can I make a time delay in Python?
+- Is there a unique Android device ID?
+- Flash CS4 refuses to let go
+- How to check if an object is an array?
+- Catch multiple exceptions in one line (except block)
+- Round to at most 2 decimal places (only if necessary)
+- How do I test a private function or a class that has private methods, fields or inner classes?
+- How can I get query string values in JavaScript?
+- How can I know which radio button is selected via jQuery?
+- How do I copy a folder from remote to local using scp?
+- Check if a given key already exists in a dictionary
+- Should I use the datetime or timestamp data type in MySQL?
+- Message src refspec master does not match any when pushing commits in Git
+- How do I check if a string contains a specific word?
+- How do I disable the resizable property of a textarea?
+- Determine installed PowerShell version
+- Why is using namespace std considered bad practice?
+- How do I pass a variable by reference?
+- What is the best way to iterate over a dictionary?
+
+## intent:askingforname
+- HI, whats your name?
+- Hello. Whats your name?
+- I want to know who you are
+- So who are you ?
+- Tell me more about you
+- WHats your name ?
+- WHo are you ?
+- What are you ?
+- What is your name
+- What is your name?
+- Whats your name
+- Whats your name?
+- Whats your name?
+- Who are yopu?
+- Who are you
+- Who are you?
+- hey what is your name
+- ok who are you?
+- tell me something about you
+- u are?
+- what are you called?
+- what is your job?
+- what is your nam
+- what is your name
+- what is your name?
+- what is your nme?
+- what your name?
+- whats your name
+- whats your name?
+- whats your name bot
+- whats ur name
+- who ARE YO
+- who am i speaking with
+- who am i talking to
+- who ar eyou
+- who are u?
+- who are y
+- who are you
+- who are you ?
+- who are you and what do you want from me
+- who are you?
+- who are you??
+- who is it?
+- who is talking?
+- who is this
+- who is this bot
+- who is this?
+- who r u
+- who r you
+- who speaks?
+- who talks?
+- whom i talking to
+- yes but who are you in your heart
+- may i know your name
+- what are you
+- your name
+- name?
+- You?
+- you are?
+- your real name friend
+- whats u name?
+- the name of you
+
+## intent:react_positive
+- HAHA
+- I am happy
+- LOL
+- Lol
+- Lol thats funny
+- Looks nice
+- WOW
+- wow!
+- Wow
+- You are great
+- thats great
+- Youre cute.
+- Youre nice.
+- Youre really cool
+- hAHAHA
+- ha ha
+- haha
+- hahah
+- hahaha
+- happy
+- i am feeling happy
+- i am happy
+- i am happy today
+- i am very happy with your response
+- i love you
+- its pretty cool
+- lol
+- love you
+- such a great demo
+- that is funny
+- that was a great interaction
+- thats funny
+- today was a nice day
+- wow
+- you are a badass bot!
+- you are awesome
+- you are cool
+- you are cool man
+- you are doin great
+- you are funny
+- you are great
+- you are my new bestfriend
+- you seem pretty cool 
+- I like you
+- I love you
+- you are realy intelligent
+- like u
+- you are so smart
+- Thats awesome.
+- Got it
+- you good
+- thats great
+- it helped me
+- great
+- correct
+- great choice
+- sounds really good
+- Cool. Thanks
+- Great, thanks
+- Thank you
+- Thank you so much
+- Thanks
+- Thanks bot
+- Thanks for that
+- Thanks!
+- amazing, thanks
+- cheers
+- cheers bro
+- cool thank you
+- cool thanks
+- cool, thanks
+- danke
+- great thanks
+- ok thanks
+- ok thanks!
+- perfect thank you
+- thank u
+- thank you
+- thank you anyways
+- thanks
+- thanks a bunch for everything
+- thanks a lot
+- thanks for forum link, Ill check it out
+- thanks for the help
+- thanks this is great news
+- thanks you
+- thanks!
+- thankyou
+- thnks
+- thx
+- yes thanks
+- thanks for your information
+- thanks f
+
+## intent:react_negative
+- no!
+- I am feeling bad
+- I am sad
+- I am super sad
+- Im sad
+- Im super sad
+- Now Im sad
+- This is bad
+- You are quite bad
+- bad
+- bad boy
+- crappy joke
+- i am angry over you
+- i am feel sad
+- i am sad
+- i am sad about that
+- i am very sad
+- i feel sad
+- i sad
+- sad
+- so sad
+- so sad 
+- super sad
+- u broke my heart
+- very very sad
+- you are bad
+- you are bad bot
+- you make me sad
+- You are mad
+- You are rude
+- you are stupid!
+- you are helpless
+- shit
+- bots are bad
+- i dont care!!!!
+- i dont like bots
+- this is a really frustrating experience
+- youre rather dull
+- i am so worry
+- i will leave
+- Although I understand your still in development, I feel a little bit disappointed.
+- Surely youre not so smart lik i thought
+- iam not feeling good
+- not good
+- Thats so rude
+- sadly
+- That tool here isnt good
+- I dont want to
+- I dont want to give it to you
+- I dont want to say
+- I dont want to tell
+- Im not giving you my email address
+- Im not going to give it to you
+- NEIN
+- NO
+- NO DONT WANT THIS!
+- Nah
+- Neither
+- Never
+- Nevermind
+- No
+- No thank you
+- No, not really.
+- No, thank you
+- No.
+- Nopes
+- Not really
+- absolutely not
+- decline
+- definitely not
+- deny
+- i decline
+- i don not like this
+- i dont think so
+- i dont want either of those
+- i dont want to
+- i dont want to give you my email
+- i guess it means no
+- im afraid not
+- im not sure
+- it is going pretty badly
+- it sucks
+- it sux
+- n
+- na
+- nah
+- nah Im good
+- nah not for me
+- nah, first time
+- nah, im good
+- neither
+- never
+- never mind
+- no
+- na
+- no I dont want
+- no I havent decided yet if I want to sign up
+- no and no again
+- no bots at all
+- no go
+- no i cant
+- no i dont accept
+- no i dont want to
+- no i dont want to accept lol
+- no i wont
+- no sir
+- no sorry
+- no thanks
+- no thank you
+- no way
+- no you did it wrong
+- no!!!!
+- no, i hate it
+- no, my frst time
+- no, thank you
+- no, thanks
+- no, thankyou
+- no. u r idiot
+- non
+- noooooooooo
+- noooooooooooooooooooooooooooooooooooooooo
+- nop
+- nope
+- nope!
+- nope. i am good
+- not going well at all
+- not really
+- not right now
+- not yet
+- nِ
+- sorry not right now
+- still dont want to tell
+- thanks but no thanks
+- this sucks
+- very bad
+- I do not need help installing
+- I dont wanna tell the name of my company
+- no stop
+- stop it, i do not care!!!
+- none of them
+- I dont agreeoring
+- I think you cant help me
+- and thats it?
+- and you call yourself bot company?
+- pff
+- do you get anything?
+- exit
+- exit now
+- hm i dont think you can do what i want
+- i guess you cant help me then
+- nothing else?
+- ok i guess you cant help me
+- ok then you cant help me
+- ok, but that doesnt help me
+- stop
+- stop go back
+- stop this conversation
+- that was shit, youre not helping
+- thats not what i want
+- this conversation is not really helpful
+- this is leading to nothing
+- you cant help me
+- you cant help me with what i need
+- you cannot help me with what I want
+- you cant help me
+- quit
+- that does not help
+
+## intent:asking_for_help
+- help with my life
+- I need help with a problem
+- can you help me with this problem
+- Help me get started
+- Can you explain me in one sentence what you are doing?
+- Can you help me?
+- Could you please show me what you can
+- Great, is there anything else you can do, bot?
+- How can you help me
+- How you help me?
+- I need help
+- I need some help
+- What are my options
+- What are you able to do?
+- What can I ask you?
+- What can I do?
+- What can you demo
+- What can you do
+- What can you do for me?
+- What can you do?
+- What can you tell me?
+- What do you do
+- anything els
+- are there any other options?
+- can I ask you anything else?
+- can you do anything else?
+- can you help me
+- can you help me?
+- come back
+- cool! can I do something else here?
+- hello what can you do for me
+- help
+- help me
+- help please
+- help pls
+- help?
+- hep me
+- hm that doesnt quite help me is there anything else you can do?
+- how can i use you
+- how can you help me
+- how can you help me?
+- how can you help?
+- how does this work?
+- how u can help me
+- how you help me
+- i asked you if you can do anything else
+- i dont know what i want
+- i need help
+- more info
+- now what?
+- options
+- show me the menu
+- show me whats possible
+- so now what
+- so what can you do
+- so what can you do?
+- so what can you help me with?
+- so what next?
+- talk to me
+- talk to me!
+- tell me something you can do
+- tell me whats your skill
+- um what now
+- what are all the things you understand?
+- what are the options?
+- what are you ding
+- what are you doing
+- what are you good at?
+- what can I ask?
+- what can I ask you?
+- what can I do here
+- what can I do with this bot
+- what can i do here
+- what can i do now
+- what can u do
+- what can we talk about?
+- what can you answer
+- what can you do
+- what can you do for me
+- what can you do?
+- what can you offer me?
+- what can you tell me
+- what can you?
+- what cn u do for me?
+- what do you do
+- what do you do?
+- what do you know except this?
+- what else can I do here?
+- what else can i do
+- what else can i do?
+- what else can you do?
+- what else can you help with?
+- what i have to do
+- what is this bot for
+- what u can do
+- what u can do?
+- what you can do
+- what you can do for me?
+- what you can do?
+- what you do
+- what you doing?
+- what you talk about?
+- you can help me
+- what can you teach me?
+
